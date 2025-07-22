@@ -3,8 +3,9 @@
 
 
 **Proof of Concept 3: Application Deployment**
-In this case 
-<p> The prompt successfully generated a guide that helps the configuration of a deployment environment in the mentioned technologies, in simple steps.</p>
+<div style="text-align: justify;">
+
+<p>In this case  The prompt successfully generated a guide that helps the configuration of a deployment environment in the mentioned technologies, in simple steps.</p>
 
 <p>In the first section ChatGPT shows the steps for creating a domain in AWS, from registration to DNS configuration.</p>
 
@@ -25,4 +26,5 @@ In this case
 </div>
 
 <p>Once the domain is registered, it can be viewed in the list of domains in AWS, then we continue with the assignment of the elastic IP and the configuration of the domain records.</p>
+</div>
 
