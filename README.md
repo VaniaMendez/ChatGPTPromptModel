@@ -5,12 +5,25 @@
 **Proof of Concept 3: Application Deployment**
 <div style="text-align: justify;">
 
-<p>In this case  The prompt successfully generated a guide that helps the configuration of a deployment environment in the mentioned technologies, in simple steps.</p>
+<p>One of the most important phases in the software development life cycle is system deployment. However, developers often lack sufficient experience or clear guidance on how to configure a server, manage a domain, or correctly deploy their application in a production environment. This process can involve a number of technical challenges, such as assigning a static IP, configuring DNS, installing security certificates, or even managing server ports and services. Given these difficulties, the use of artificial intelligence tools such as ChatGPT becomes a valuable ally, as it can generate detailed instructions, resolve specific questions, and adapt recommendations to the technological environment we are using.</p> <br>
+
+<p> In this context, the tool proposed in the article allows for the structuring of effective prompts that guide the developer through this critical stage, facilitating task automation, decision-making, and understanding of the deployment process, even for those without specialized training in infrastructure. </p>
+
+<div style="text-align: center;">
+    <img src="images/image.png" alt="Descripción" width="500"/>
+</div>
+
+<p>The generated prompt gave us a satisfactory result because it generated the steps required to configure a deployment environment with AWS for an application developed in SpringBoot in a way that was understandable to the developer.
+It correctly generated a guide that helps configure a deployment environment in the aforementioned technologies, in simple steps.</p>
+
+<div style="text-align: center;">
+    <img src="images/image00.png" alt="Descripción" width="500"/>
+</div>
 
 <p>In the first section ChatGPT shows the steps for creating a domain in AWS, from registration to DNS configuration.</p>
 
 <div style="text-align: center;">
-    <img src="images/image15.png" alt="Descripción" width="500"/>
+    <img src="images/image01.png" alt="Descripción" width="500"/>
 </div>
 
 <p>We looked for the <i>chatgpt-prompt-model.com</i> domain, but it was already taken, so we chose <strong>.org.</strong> </p>
