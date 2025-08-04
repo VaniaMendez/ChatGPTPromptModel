@@ -1,14 +1,18 @@
 # ChatGPTPromptModel 
 # Model for the Adoption of AI Tools in the Software Development Life Cycle. Usage, Analysis and Proposals for ChatGPT Optimization.
 
-
-**Proof of Concept 3: Application Deployment**
 <div style="text-align: justify;">
 
-<p>One of the most important phases in the software development life cycle is system deployment. However, developers often lack sufficient experience or clear guidance on how to configure a server, manage a domain, or correctly deploy their application in a production environment. This process can involve a number of technical challenges, such as assigning a static IP, configuring DNS, installing security certificates, or even managing server ports and services. Given these difficulties, the use of artificial intelligence tools such as ChatGPT becomes a valuable ally, as it can generate detailed instructions, resolve specific questions, and adapt recommendations to the technological environment we are using.</p> <br>
+<p>One of the most important phases in the software development life cycle is system deployment. However, developers often lack sufficient experience or clear guidance on how to configure a server, manage a domain, or correctly deploy their application in a production environment. This process can involve a number of technical challenges, such as assigning a static IP, configuring DNS, installing security certificates, or even managing server ports and services. Given these difficulties, the use of artificial intelligence tools such as ChatGPT becomes a valuable ally, as it can generate detailed instructions, resolve specific questions, and adapt recommendations to the technological environment we are using.</p> 
+<p> In this context, the artifact proposed in the article allows for the structuring of effective prompts that guide the developer through this critical stage, facilitating task automation, decision-making, and understanding of the deployment process, even for those without specialized training in infrastructure. </p>
 
-<p> In this context, the tool proposed in the article allows for the structuring of effective prompts that guide the developer through this critical stage, facilitating task automation, decision-making, and understanding of the deployment process, even for those without specialized training in infrastructure. </p>
+**Proof of Concept 3: Application Deployment**
 
+<p> In proof of concept number 3, the AI was given the necessary instructions to generate a series of steps for deploying an application developed in Spring Boot on an AWS server.</p>
+
+<div style="text-align: center;">
+    <img src="images/artifact.png" alt="Descripción" width="500"/>
+</div>
 
 <div style="text-align: center;">
     <img src="images/image.png" alt="Descripción" width="500"/>
