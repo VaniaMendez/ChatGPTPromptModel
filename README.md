@@ -9,6 +9,7 @@
 
 <p> In this context, the tool proposed in the article allows for the structuring of effective prompts that guide the developer through this critical stage, facilitating task automation, decision-making, and understanding of the deployment process, even for those without specialized training in infrastructure. </p>
 
+
 <div style="text-align: center;">
     <img src="images/image.png" alt="Descripción" width="500"/>
 </div>
