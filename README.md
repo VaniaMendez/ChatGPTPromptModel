@@ -10,7 +10,7 @@
 
 <p> In proof of concept number 3, the AI was given the necessary instructions to generate a series of steps for deploying an application developed in Spring Boot on an AWS server.</p>
 
-<div style="text-align: center;">
+<div style="align: center;">
     <img src="images/artifact.png" alt="Descripción" width="500"/>
 </div>
 
