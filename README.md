@@ -103,5 +103,59 @@ It correctly generated a guide that helps configure a deployment environment in 
     <img src="images/image15.png" alt="Descripción" width="500"/>
 </div>
 
+<p>To access the settings of the virtual machine we created, we used the WinSCP program, connected to the instance, and accessed the machine.</p>
+
+<div style="text-align: center;">
+    <img src="images/image16.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image17.png" alt="Descripción" width="500"/>
+</div>
+
+<p>The commands used to install and configure the programs on the virtual machine provided by ChatGPT were correct, but it is recommended that the program versions be checked, as sometimes it takes installation paths from pages that are no longer in operation.</p>
+
+<div style="text-align: center;">
+    <img src="images/image18.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image19.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image20.png" alt="Descripción" width="500"/>
+</div>
+
+
+**Configuring the NGNIX server and connecting to the domain**
+
+<p>We use NGINX in a Spring Boot project when deploying to production because it acts as a reverse proxy in front of the application. This provides key benefits:
+</p>
+<ul> 
+<li> Security: it only exposes standard ports (80/443) and hides the internal Spring Boot port (8080). It also simplifies HTTPS with SSL/TLS certificates.</li>
+<li>Performance: it serves static files (images, CSS, JavaScript) more efficiently and reduces the load on the application.</li>
+<li> Scalability: it can balance traffic across multiple Spring Boot instances.</li>
+<li> Stability: it helps control traffic, prevents overloads, and improves availability.</li>
+</ul>
+<p>In short: NGINX is the “shield” and performance booster for the users, while Spring Boot focuses on business logic.</p>
+
+<div style="text-align: center;">
+    <img src="images/image21.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image22.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image23.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image24.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image25.png" alt="Descripción" width="500"/>
+</div>
+
+
+
+
+
 </div>
 
