@@ -59,15 +59,15 @@ It correctly generated a guide that helps configure a deployment environment in 
     <img src="images/image2.png" alt="Descripción" width="500"/>
 </div>
 
-
-
-
 <div style="text-align: center;">
     <img src="images/image3.png" alt="Descripción" width="500"/>
 </div>
 
+<p> To assign the record with www, you must enter “www” in the record name section and enable the “Alias” to be able to select the traffic route for that record.</p>
 
-
+<div style="text-align: center;">
+    <img src="images/image9.png" alt="Descripción" width="500"/>
+</div>
 
 </div>
 
