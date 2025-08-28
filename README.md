@@ -144,18 +144,36 @@ It correctly generated a guide that helps configure a deployment environment in 
     <img src="images/image22.png" alt="Descripción" width="500"/>
 </div>
 <div style="text-align: center;">
-    <img src="images/image23.png" alt="Descripción" width="500"/>
+    <img src="images/image24.png" alt="Descripción" width="500"/>
 </div>
 <div style="text-align: center;">
-    <img src="images/image24.png" alt="Descripción" width="500"/>
+    <img src="images/image23.png" alt="Descripción" width="500"/>
 </div>
 <div style="text-align: center;">
     <img src="images/image25.png" alt="Descripción" width="500"/>
 </div>
 
+**Uploading the project to the server**
 
+<p>In the fourth step, we are shown how to build and upload our Spring Boot project to our virtual machine, from packaging it into a .jar file to the paths where we should place it. For this step, we used the WinSCP tool as a file explorer between our computer and the virtual machine..</p>
+<div style="text-align: center;">
+    <img src="images/image26.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image27.png" alt="Descripción" width="500"/>
+</div>
 
+**Test via Swagger UI**
 
+<p>Finally, in the last step, we are told how to access Swagger to check that our application has loaded correctly.
+To do this, we must ensure that our project has the Swagger extension before packaging it in a .jar file.</p>
+
+<div style="text-align: center;">
+    <img src="images/image28.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image29.png" alt="Descripción" width="500"/>
+</div>
 
 </div>
 
