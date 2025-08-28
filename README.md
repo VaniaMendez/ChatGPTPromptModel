@@ -30,6 +30,9 @@ It correctly generated a guide that helps configure a deployment environment in 
     <img src="images/image00.png" alt="Descripción" width="500"/>
 </div>
 
+
+**Domain registration and configuration**
+
 <p> The first step is to register the domain. Initially, we searched for the domain <i>chatgpt-prompt-model.com</i>, but since it was already taken, we changed it to <strong>.org.</strong></p>
 
 <div style="text-align: center;">
@@ -68,6 +71,16 @@ It correctly generated a guide that helps configure a deployment environment in 
 <div style="text-align: center;">
     <img src="images/image9.png" alt="Descripción" width="500"/>
 </div>
+
+<p>To conclude this first part, we used the online tool “Whatsmydns.net” to verify the propagation of our domain and make sure that our configurations were correct.</p>
+
+<div style="text-align: center;">
+    <img src="images/image10.png" alt="Descripción" width="500"/>
+</div>
+
+**EC2 instance configuration**
+
+
 
 </div>
 
