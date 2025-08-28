@@ -43,7 +43,7 @@ It correctly generated a guide that helps configure a deployment environment in 
 </div>
 
 
-<p> </p>
+<p> To configure the elastic IP, go to the EC2 Dashboard and, in the Elastic IPs section, go to “Allocate Elastic IP” and click on “Allocate.”And after creation, we will associate it with our created instance. </p>
 
 
 <div style="text-align: center;">
