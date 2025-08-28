@@ -77,10 +77,31 @@ It correctly generated a guide that helps configure a deployment environment in 
 <div style="text-align: center;">
     <img src="images/image10.png" alt="Descripción" width="500"/>
 </div>
+<br>
+
 
 **EC2 instance configuration**
 
+<p>In the second part, we will configure the virtual machine in AWS, following the instructions provided by ChatGPT regarding our request. </p>
 
+<div style="text-align: center;">
+    <img src="images/image11.png" alt="Descripción" width="500"/>
+</div>
+
+<p>Following the instructions, we created the instance and changed the name to “chatgpt-prompt-model.” </p>
+
+<div style="text-align: center;">
+    <img src="images/image12.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image13.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image14.png" alt="Descripción" width="500"/>
+</div>
+<div style="text-align: center;">
+    <img src="images/image15.png" alt="Descripción" width="500"/>
+</div>
 
 </div>
 
