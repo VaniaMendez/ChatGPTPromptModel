@@ -45,10 +45,21 @@ It correctly generated a guide that helps configure a deployment environment in 
 
 <p> To configure the elastic IP, go to the EC2 Dashboard and, in the Elastic IPs section, go to “Allocate Elastic IP” and click on “Allocate.”And after creation, we will associate it with our created instance. </p>
 
+<div style="text-align: center;">
+    <img src="images/image7.png" alt="Descripción" width="500"/>
+</div>
+
+<div style="text-align: center;">
+    <img src="images/image8.png" alt="Descripción" width="500"/>
+</div>
+
+<p> With the elastic IP assigned, we can continue with the configuration of the DNS records. To do this, we will follow the path indicated in point 1.3 and add the two A records, following the instructions provided by ChatGPT.</p>
 
 <div style="text-align: center;">
     <img src="images/image2.png" alt="Descripción" width="500"/>
 </div>
+
+
 
 
 <div style="text-align: center;">
