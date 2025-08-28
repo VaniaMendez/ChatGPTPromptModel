@@ -36,17 +36,27 @@ It correctly generated a guide that helps configure a deployment environment in 
     <img src="images/image01.png" alt="Descripción" width="500"/>
 </div>
 
+<p>Once the domain has been registered, we can verify its creation in the AWS domain list and, once we see that it appears, we can continue with the elastic IP assignment and DNS configuration.</p>
+
+<div style="text-align: center;">
+    <img src="images/image06.png" alt="Descripción" width="500"/>
+</div>
+
+
+<p> </p>
+
 
 <div style="text-align: center;">
     <img src="images/image2.png" alt="Descripción" width="500"/>
 </div>
 
-<p>Once the domain is registered, it can be viewed in the list of domains in AWS, then we continue with the assignment of the elastic IP and the configuration of the domain records.</p>
 
 <div style="text-align: center;">
     <img src="images/image3.png" alt="Descripción" width="500"/>
 </div>
 
-<p>Once the domain is registered, it can be viewed in the list of domains in AWS, then we continue with the assignment of the elastic IP and the configuration of the domain records.</p>
+
+
+
 </div>
 
