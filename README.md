@@ -1,7 +1,5 @@
-# ChatGPTPromptModel 
-# Model for the Adoption of AI Tools in the Software Development Life Cycle. Usage, Analysis and Proposals for ChatGPT Optimization.
-
-
+# Model for the Adoption of AI Tools in the Software Develop-ment Life Cycle: A Framework for Prompt Optimization in LLMs.
+## ChatGPT Prompt Model
 
 
 <p>One of the most important phases in the software development life cycle is system deployment. However, developers often lack sufficient experience or clear guidance on how to configure a server, manage a domain, or correctly deploy their application in a production environment. This process can involve a number of technical challenges, such as assigning a static IP, configuring DNS, installing security certificates, or even managing server ports and services. Given these difficulties, the use of artificial intelligence tools such as ChatGPT becomes a valuable ally, as it can generate detailed instructions, resolve specific questions, and adapt recommendations to the technological environment we are using.
@@ -174,6 +172,8 @@ To do this, we must ensure that our project has the Swagger extension before pac
 <div style="text-align: center;">
     <img src="images/image29.png" alt="Descripción" width="500"/>
 </div>
+
+<p>Contact: vaniali00518@gmail.com</p>
 
 </div>
 
